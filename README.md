@@ -1,2 +1,17 @@
-# google-cpp-stil-rehberi
-Google C++ Style Guide Türkçe Çevirisi
+### Google C++ Stil Rehberi
+
+[İçerik]()
+
+|     |     |
+| --- | --- |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
