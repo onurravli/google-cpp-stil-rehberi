@@ -1,6 +1,6 @@
-## Google C++ Stil Rehberi
+<h2 align="center">Google C++ Stil Rehberi</h2>
 
-[İçerik]()
+### İçerik Tablosu
 
 | C++ Sürümü              |     |
 | ----------------------- | --- |
