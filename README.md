@@ -1,4 +1,4 @@
-<h2 align="center">Google C++ Stil Rehberi</h2>
+<h1 align="center">Google C++ Stil Rehberi</h1>
 
 ### İçerik Tablosu
 
